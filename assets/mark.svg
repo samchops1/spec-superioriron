@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Superior Iron Works">
+  <circle cx="60" cy="60" r="57" fill="#14110e" stroke="#c45a27" stroke-width="3"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#8d8578" stroke-width="1"/>
+  <path d="M22 38 L98 38 M28 60 L92 60 M22 82 L98 82 M38 22 L38 98 M82 22 L82 98" stroke="#3a332c" stroke-width="6"/>
+  <text x="60" y="40" text-anchor="middle" fill="#f3eadc" font-family="Georgia, serif" font-size="11" font-weight="700" letter-spacing="2">SUPERIOR</text>
+  <text x="60" y="66" text-anchor="middle" fill="#e07a3a" font-family="Georgia, serif" font-size="18" font-weight="700" letter-spacing="3">IRON</text>
+  <text x="60" y="90" text-anchor="middle" fill="#f3eadc" font-family="Georgia, serif" font-size="11" font-weight="700" letter-spacing="3">WORKS</text>
+</svg>
